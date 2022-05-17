@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rabut-dev
 - 👀 I’m interested in DevOps - Cloud, IaC, SRE
-- 🌱 I’m currently learning many tools :)
+- 🌱 I’m currently learning many tech and tools :)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
