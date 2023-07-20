@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rajeshbutpur
-- 👀 I’m interested in DevOps - Cloud, IaC, SRE
-- 🌱 I’m currently learning many tech and tools :)
+- 👀 I’m interested in Java, Python, DevOps - Cloud, IaC, SRE and many other's.
+- 🌱 I’m currently learning loads of tech's and tool's :)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
